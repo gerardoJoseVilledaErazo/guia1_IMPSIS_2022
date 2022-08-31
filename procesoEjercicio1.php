@@ -27,6 +27,7 @@
         echo "<br>";
         echo "La contraseña no se mostrará por seguridad";
         echo "<br>";
+        echo "<br>";
     ?>
     &emsp;<input type="button" onclick="history.back()" name="volver atrás" value="volver atrás">
     <div class="container text-right">
