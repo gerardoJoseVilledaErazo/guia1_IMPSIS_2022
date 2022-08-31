@@ -19,6 +19,8 @@
         &emsp;<strong>  Código: </strong> <p> &emsp;VE16I04001</p> <br>
         &emsp;<strong>  Materia: </strong> <P> &emsp;Implantación de Sistemas - 2022</P>  <br>
     <body>
+    <h2>&emsp;Ejercicio 1. Realizar los siguientes ejercicios ocupando variables y quedará de la siguiente manera
+con los nombres</h2>
         <form method="POST" action="procesoEjercicio1.php" autocomplete="on" >
             <table style="background-color:#00FF00">
                 <tr>
@@ -45,7 +47,7 @@
         </form>
         <div class="container text-right">
             <p class="d-inline">
-                <strong> Derechos reservados - Universidad de Sonsonate &copy; 2022</strong>
+            &emsp;<strong> Derechos reservados - Universidad de Sonsonate &copy; 2022</strong>
             </p>
         </div>    
     </body>
