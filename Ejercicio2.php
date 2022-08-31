@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejercicio2 - guia1 | 2022</title>
+    <title>Ejercicio 2 - guia1 | 2022</title>
         <style>
         table, th, td {
             border: 1px solid black;
@@ -14,6 +14,10 @@
         }
         </style>
 </head>
+    <h1> &emsp;  Guía 1 - INTRODUCCION A PHP</h1>
+    &emsp;<strong>  Alumno: </strong> <p> &emsp;Gerardo José Villeda Erazo</p> <br>
+    &emsp;<strong>  Código: </strong> <p> &emsp;VE16I04001</p> <br>
+    &emsp;<strong>  Materia: </strong> <P> &emsp;Implantación de Sistemas - 2022</P>  <br>
 <body>    
     <form method="POST" action="procesoEjercicio2.php" autocomplete="on" >
         <table style="background-color:#00FF00">
@@ -72,5 +76,10 @@
             </tr>
         </table>
     </form>
+    <div class="container text-right">
+        <p class="d-inline">
+            <strong> Derechos reservados - Universidad de Sonsonate &copy; 2022</strong>
+        </p>
+    </div>  
 </body>
 </html>
