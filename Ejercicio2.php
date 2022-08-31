@@ -19,6 +19,7 @@
     &emsp;<strong>  Código: </strong> <p> &emsp;VE16I04001</p> <br>
     &emsp;<strong>  Materia: </strong> <P> &emsp;Implantación de Sistemas - 2022</P>  <br>
 <body>    
+    <h2>&emsp;Ejercicio 2. </h2>
     <form method="POST" action="procesoEjercicio2.php" autocomplete="on" >
         <table style="background-color:#00FF00">
             <tr>
