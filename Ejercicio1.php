@@ -9,7 +9,7 @@ table, th, td {
 }
 </style>
 </head>
-    <h1> &emsp;  Guía de Implantación 1 - INTRODUCCION A PHP</h1>
+    <h1> &emsp;  Guía 1 - INTRODUCCION A PHP</h1>
     &emsp;<strong>  Alumno: </strong> <p> &emsp;Gerardo José Villeda Erazo</p> <br>
     &emsp;<strong>  Código: </strong> <p> &emsp;VE16I04001</p> <br>
     &emsp;<strong>  Materia: </strong> <P> &emsp;Implantación de Sistemas - 2022</P>  <br>
