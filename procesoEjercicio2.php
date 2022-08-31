@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proceso Ejercicio 1</title>
+    <title>Proceso Ejercicio 2</title>
 </head>
         <h1> &emsp;  Guía 1 - INTRODUCCION A PHP</h1>
         &emsp;<strong>  Alumno: </strong> <p> &emsp;Gerardo José Villeda Erazo</p> <br>
@@ -21,11 +21,23 @@
         echo "<br>";
         echo $_REQUEST['apellido'];
         echo "<br>";
-        echo "El usuario ingresado es: ";
+        echo "El sexo del usuario ingresado es: ";
         echo "<br>";
-        echo $_REQUEST['usuario'];
+        echo $_REQUEST['sexo'];
         echo "<br>";
-        echo "La contraseña no se mostrará por seguridad";
+        echo "País de origen: ";
+        echo "<br>";
+        echo $_REQUEST['pais'];
+        echo "<br>";
+        echo "Pasatiempos del usuario: ";
+        echo "<br>";
+        echo $_REQUEST['pasatiempo1'];
+        echo "&nbsp";
+        echo $_REQUEST['pasatiempo2'];
+        echo "<br>";
+        echo "Las obsrvaciones son:";
+        echo "<br>";
+        echo $_REQUEST['observaciones'];
         echo "<br>";
     ?>
     &emsp;<input type="button" onclick="history.back()" name="volver atrás" value="volver atrás">
@@ -36,6 +48,3 @@
     </div> 
 </body>
 </html>
-
-
-
