@@ -70,7 +70,7 @@
             </tr>
             <tr>
                 <td><label for="observaciones">Observaciones:</label></td>
-                <td><textarea name="observaciones" id="observaciones" cols="30" rows="5"></textarea></td>
+                <td><textarea name="observaciones" id="observaciones" cols="30" rows="5" placeholder="Líder de la Naranja mecánica" required ></textarea></td>
             </tr>
             <tr>
                 <th><input type="submit" value="Enviar"></th>     

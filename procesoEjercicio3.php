@@ -23,13 +23,14 @@
         $R3 = $_REQUEST['R3'];
         $RP = 1/((1/$R1)+(1/$R2)+(1/$R3));
         $RS = $R1+$R2+$R3;
-        echo "El valor global de la resistencia formada por estas tres resistencias si están conectadas en paralelo: R = 1/(1/R1)+(1/R2)+(1/R3) es:";
+        echo "a) El valor global de la resistencia formada por estas tres resistencias si están conectadas en paralelo: R = 1/(1/R1)+(1/R2)+(1/R3) es:";
         echo "<br>";
         echo $RP;
         echo "&nbsp";
         echo "Ohmios";
         echo "<br>";
-        echo "El valor global de la resistencia formada por estas tres resistencias si están conectadas en serie: R = R1+R2+R3 es:";
+        echo "<br>";
+        echo "b) El valor global de la resistencia formada por estas tres resistencias si están conectadas en serie: R = R1+R2+R3 es:";
         echo "<br>";
         echo $RS;
         echo "&nbsp";
