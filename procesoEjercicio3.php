@@ -30,7 +30,7 @@
         echo "Ohmios";
         echo "<br>";
         echo "<br>";
-        echo "b) El valor global de la resistencia formada por estas tres resistencias si están conectadas en serie: R = R1+R2+R3 es:";
+        echo "b) aEl valor global de la resistencia formada por estas tres resistencias si están conectadas en serie: R = R1+R2+R3 es:";
         echo "<br>";
         echo $RS;
         echo "&nbsp";
