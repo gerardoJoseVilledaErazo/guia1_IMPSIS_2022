@@ -8,6 +8,7 @@
         <style>
         table, th, td {
             border: 1px solid black;
+            margin-left: 16px;
         }
         th, td {
             padding: 10px;
@@ -19,7 +20,7 @@
         &emsp;<strong>  Código: </strong> <p> &emsp;VE16I04001</p> <br>
         &emsp;<strong>  Materia: </strong> <P> &emsp;Implantación de Sistemas - 2022</P>  <br>
 <body>
-    <h2>Ejercicio 3. Solicitar los valores de 3 resistencias eléctricas (en Ohmios, W) y muestre el valor global
+    <h2>&emsp;Ejercicio 3. Solicitar los valores de 3 resistencias eléctricas (en Ohmios, W) y muestre el valor global
     de la resistencia formada por estas tres resistencias si:</h2>
     <form method="POST" action="procesoEjercicio3.php" autocomplete="on" >
         <table style="background-color:#00FF00">
@@ -43,7 +44,7 @@
     </form>
     <div class="container text-right">
         <p class="d-inline">
-            <strong> Derechos reservados - Universidad de Sonsonate &copy; 2022</strong>
+            <strong> &emsp;Derechos reservados - Universidad de Sonsonate &copy; 2022</strong>
         </p>
     </div>   
 </body>
