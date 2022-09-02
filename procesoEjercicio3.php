@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proceso Ejercicio 3</title>
+        <style>
+        body {
+            margin-left: 16px;
+        }
+        </style>
 </head>
         <h1> &emsp;  Guía 1 - INTRODUCCION A PHP</h1>
         &emsp;<strong>  Alumno: </strong> <p> &emsp;Gerardo José Villeda Erazo</p> <br>
